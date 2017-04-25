@@ -12,7 +12,7 @@ export default {
             port: '3306',
             database: 'mockserver',
             user: 'root',
-            password: '',
+            password: 'mockjs',
             prefix: 'mock_',
             encoding: 'UTF8MB4_GENERAL_CI'
         },
